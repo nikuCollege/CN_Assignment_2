@@ -17,8 +17,7 @@ This repository contains scripts to evaluate different TCP congestion control al
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/tcp-congestion-control
-   cd tcp-congestion-control
+   git clone https://github.com/nikuCollege/CN_Assignment_2
    ```
 
 2. **Install Mininet from source with Python 3 support**:
