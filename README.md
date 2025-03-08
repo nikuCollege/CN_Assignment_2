@@ -1,6 +1,6 @@
-This project includes three major tasks:
-1. **TCP Congestion Control Experiments** (Task 1)
-2. **SYN Flood Attack Implementation & Mitigation** (Task 2)
+This assignment includes three major tasks:
+1. **TCP Congestion Control Experiments** 
+2. **SYN Flood Attack Implementation & Mitigation** 
 3. **Analysis of Nagle’s Algorithm on TCP Performance** 
 
 # Task 1: TCP Congestion Control Experiments with Mininet
