@@ -282,10 +282,6 @@ This experiment successfully demonstrates the impact of a SYN flood attack and e
 
 
 # Task 3: Analysis of Nagle’s Algorithm on TCP Performance
-# README
-
-## Task 3: Analyzing the Effect of Nagle’s Algorithm on TCP/IP Performance
-
 ### Task Description
 For this task, a 4 KB file was transmitted over a TCP connection for a duration of ~2 minutes with a transfer rate of 40 bytes/second. The following four combinations were tested by enabling/disabling Nagle’s Algorithm and Delayed-ACK on both the client and server sides:
 
