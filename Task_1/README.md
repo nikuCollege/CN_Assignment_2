@@ -23,18 +23,23 @@ This repository contains scripts to evaluate different TCP congestion control al
    PYTHON=python3 sudo -E ./util/install.sh -a
    cd ..
    ```
-
-3. **Install required Python packages**:
+3. **Install iperf3 to generate TCP traffic**:
+   ```bash
+   sudo apt install -y iperf3
+   iperf3 --version
+   ```
+   
+4. **Install required Python packages**:
    ```bash
    sudo pip3 install matplotlib pandas numpy scapy
    ```
 
-4. **Install tcpdump for packet capture**:
+5. **Install tcpdump for packet capture**:
    ```bash
    sudo apt-get install -y tcpdump
    ```
 
-5. **Ensure TCP congestion control modules are available**:
+6. **Ensure TCP congestion control modules are available**:
    ```bash
    sudo modprobe tcp_highspeed
    sudo modprobe tcp_yeah
