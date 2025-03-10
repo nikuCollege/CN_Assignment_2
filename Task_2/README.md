@@ -136,9 +136,8 @@ The PCAP files are analyzed to extract connection start times and durations. A P
 ---
 
 ## **Deliverables**
-- `syn_flood.pcap` (Captured network traffic)
-- `syn_flood_analysis.png` (Graph: Connection Duration vs. Start Time)
-- `connection_durations_by_period.png` (Graph: Boxplot Comparison)
+- (Graph: Connection Duration vs. Start Time)
+- (Graph: Boxplot Comparison)
 - Wireshark screenshots (showing attack success & mitigation effectiveness)
 - Python script for data analysis
 
