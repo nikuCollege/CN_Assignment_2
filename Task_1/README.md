@@ -115,7 +115,7 @@ cd congestion_control_results
 The PNG files can be viewed with any image viewer, and the summary text files contain the key metrics for each experiment.
 
 
-## For ease. we have created a "Results" folder listing teh summary of all the experiments.
+## For ease, we have created a "Results" folder listing the summary of all the experiments.
 It doesn't contain the "pcap files" due to memory issues on github.
 
 ## File Structure
